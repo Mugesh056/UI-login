@@ -1,0 +1,137 @@
+  
+.id{
+  background-color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+  font-weight: lighter;
+}
+p{
+    color:cornsilk;
+}
+.cou{
+    font-size: xx-large;
+    font-style:oblique;
+}
+.it{
+    padding: 23%; 
+    font-size: large;
+    word-spacing: 10pt;
+}
+.but{
+    
+    background-color: chartreuse;
+    padding: 8pt 18pt;
+    color: black;
+    position: relative;
+    left: 50px;
+    border-radius: 18pt;
+    box-shadow: 0%;
+    font-weight: normal;}  
+.but:hover{
+    background-color:rgb(114, 88, 91)
+}
+.but:active{
+    background-color: lime;
+    box-shadow: 0 5px rgb(209, 198, 208);
+    transform: rotateY(4px);
+}
+.title{
+   color: gold;
+   font-size:xx-large;
+   padding-left: 32%;
+   padding: bottom 25px; ; 
+}
+.para{
+    color: aliceblue;
+    font-size: small;
+    padding-left: 35%;
+}
+.para2{
+    padding-left: 37%;
+    color: aliceblue;
+    font-size: small;
+}
+input[type=text], select{
+    width: 15%;
+    padding:10px 29px ;
+    margin: 12px 150px;
+    display: inline-block;
+    border: 2px solid ;
+    border-radius: 5px;
+    box-sizing: content-box;
+    
+}
+.google{
+
+    padding: 8px 46px;
+    
+    border-radius:5px ;
+    border:2px solid;
+    box-sizing: content-box;
+    
+}
+img{
+    width: 15pt;
+    vertical-align: middle;
+}
+input[type=pass], select{
+    width: 15%;
+    padding:10px 29px ;
+    margin: 12px 150px;
+    display: inline-block;
+    border: 2px solid ;
+    border-radius: 5px;
+    box-sizing: content-box;
+}
+.facebook{
+    padding: 8px 40px;
+    
+    border-radius:5px ;
+    border:2px solid;
+    box-sizing: content-box;
+}
+.start{
+    background-color: chartreuse;
+    width: 15%;
+    padding: 10px 29px;
+    margin: 12px 150px;
+    display: inline-block;
+    border: 2px solid ;
+    border-radius: 5px;
+    box-sizing: content-box; 
+}
+.start{
+     padding-left:4%;
+     margin-bottom: 20%;
+}
+.start:hover{
+    background-color:rgb(114, 88, 91)
+}
+.start:active{
+    background-color: lime;
+    box-shadow: 0 5px rgb(209, 198, 208);
+    transform: rotateY(4px);
+}
+.password{
+   
+        padding-left: 42%;
+        position: relative;
+        bottom: 130px;
+        color: aliceblue;
+        font-size: small;
+}
+h3{
+    font-family: 'Source san Pro' sans-serif;
+    text-transform: lowercase;
+    font-weight: 250;
+    font-size: 15px;
+    position: relative;
+    bottom: 140px;
+    color: aliceblue;
+}
+.right{
+    padding-left: 79%;
+    color: aliceblue;
+    position: relative;
+    bottom: 180px;
+    font-size: small;
+}
